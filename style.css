@@ -1,0 +1,38 @@
+
+.menubar{
+    border: 1px solid black;
+    background-color: coral;
+    padding: 5px;
+}
+#name{
+    display: inline-block;
+}
+#linksgroup{
+    float: right;
+}
+.sidelinksgroup{
+    border: 1px solid black;
+    background-color: coral;
+    display: inline-block;
+    width: 8vw;
+    height: 500px;
+    position: relative;
+    bottom:26px;
+}
+.menu{
+    border: 1px solid black;
+    background-color: coral;
+    display:inline-block;
+    width: 80vw;
+    height: 500px;
+}
+.sideimage{
+    border: 1px solid black;
+    background-color: coral;
+    display: inline-block;
+    width: 8vw;
+    height: 500px;
+    position: relative;
+    bottom:-40px;
+}
+
